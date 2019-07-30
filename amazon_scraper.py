@@ -62,3 +62,4 @@ with open(write_file, "w") as output:
 
 # Clean up and close browser once task is completed
 driver.close()
+note = "hi"
